@@ -1,0 +1,7 @@
+venv/
+lib/
+__pycache__/
+*.pyc
+.env
+vector_db/
+
